@@ -1,19 +1,31 @@
-Convertisseur Texte à Audio 
+# Convertisseur Texte à Audio
 
-Caractéristiques Techniques :
+## Description
 
-HTML5, CSS3, JavaScript : Le projet est construit en respectant les normes HTML5 pour la structure, CSS3 pour le style et JavaScript pour une interaction dynamique.
+Ce convertisseur texte à audio propose une interface simple et efficace permettant aux utilisateurs de convertir du texte en fichiers audio. Avec la possibilité de sélectionner la voix souhaitée, cette application offre une expérience utilisateur personnalisée.
 
-Intégration de la Synthèse Vocale : L'utilisation de l'API de synthèse vocale native du navigateur permet de convertir instantanément du texte en audio.
+## Fonctionnalités Principales
 
-Interface Utilisateur Épurée : L'interface minimaliste offre une expérience utilisateur fluide, avec un champ de texte à convertir et un bouton simple.
+- **Conversion Texte à Audio** : Saisissez le texte que vous souhaitez convertir dans la zone de texte dédiée.
 
-Sélection de Voix : Choisissez parmi différentes voix pour personnaliser la sortie audio en fonction de vos préférences.
+- **Sélection de Voix** : Choisissez parmi différentes voix disponibles pour personnaliser la conversion.
 
-Fonctionnement :
+- **Bouton de Lecture** : Appuyez sur le bouton "Convertir" pour générer le fichier audio correspondant.
 
-Saisissez du Texte : Entrez le texte que vous souhaitez convertir dans la zone de texte prévue à cet effet.
+## Technologies Utilisées
 
-Choisissez une Voix : Sélectionnez parmi les voix disponibles pour personnaliser l'expérience audio.
+- HTML, CSS
+- JavaScript
+- API de Conversion Texte à Audio native du navigateur
 
-Convertissez en Audio : Cliquez sur le bouton de conversion pour écouter instantanément la synthèse vocale du texte saisi.
+## Installation
+
+1. **Clonez le dépôt** : `git clone https://github.com/votre-utilisateur/convertisseur-texte-audio.git`
+2. **Ouvrez le fichier HTML** : `index.html`
+
+## Utilisation
+
+1. Saisissez le texte dans la zone de texte.
+2. Choisissez la voix souhaitée dans le menu déroulant.
+3. Cliquez sur le bouton "Convertir" pour générer le fichier audio.
+
